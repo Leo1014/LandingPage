@@ -49,7 +49,7 @@ ul, ol {
 }
 
 .main-container .list li a:hover{
-    color: rgb(231, 188, 224)
+    color: rgb(69, 94, 240)
 }
 
 .main-container .list li:hover{
@@ -69,6 +69,7 @@ ul, ol {
 }
 
 .main-container .button button:hover{
-    transform: scale(1.2);
-    background-color: rgb(231, 188, 224);
+    color: rgb(69, 94, 240);
+    transform: scale(1.1);
+    background-color: (248, 233, 246rgb);
 }
